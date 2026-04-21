@@ -1,8 +1,10 @@
 <div align="center">
 
-<img src="./assets/banner.png" alt="0xVAMSI" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,50:001a00,100:00ff41&height=200&section=header&text=0xVAMSI&fontSize=80&fontColor=00ff41&fontAlignY=35&desc=Offensive%20Security%20Researcher%20%E2%80%A2%20Penetration%20Tester&descSize=16&descColor=888888&descAlignY=55&animation=fadeIn"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=18&duration=2500&pause=800&color=00FF41&center=true&vCenter=true&repeat=true&width=600&height=30&lines=%24+whoami+--+Offensive+Security+Researcher;%24+cat+cve-2026-35454.txt+--+DISCLOSED;%24+status+--+Bugcrowd+Hall+of+Fame+%5BACTIVE%5D;%24+rank+--ctf+--national+--top-5)](https://git.io/typing-svg)
+<br/>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=2500&pause=800&color=00FF41&center=true&vCenter=true&repeat=true&width=550&height=25&lines=%24+cat+cve-2026-35454.txt+--+DISCLOSED;%24+status+--+Bugcrowd+Hall+of+Fame+%5BACTIVE%5D;%24+rank+--ctf+--national+--top-5+%282026%29)](https://git.io/typing-svg)
 
 <br/>
 
@@ -12,7 +14,7 @@
 
 </div>
 
-<br/>
+---
 
 <table>
 <tr>
