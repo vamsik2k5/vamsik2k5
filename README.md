@@ -3,7 +3,7 @@
 # **KANDLAGUDURU VAMSI**
 ### `Offensive Security Researcher · Penetration Tester`
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=14&duration=2500&pause=800&color=FF0040&center=true&vCenter=true&repeat=true&width=500&height=22&lines=%E2%96%B8+CVE-2026-42178+%E2%80%94+Critical+RCE+%E2%80%94+OpenAEV;%E2%96%B8+CVE-2026-42179+%E2%80%94+High+IDOR+%E2%80%94+OpenAEV;%E2%96%B8+CVE-2026-35454+%E2%80%94+Disclosed+%26+Assigned;%E2%96%B8+CVE-2026-42574+%E2%80%94+High+Symlink+%E2%80%94+apko;%E2%96%B8+CVE-2026-55671+%E2%80%94+SSRF+%E2%80%94+Zitadel;%E2%96%B8+Google+VRP+%E2%80%94+Credited;%E2%96%B8+National+CTF+Ranking+%E2%80%94+Top+5+%282026%29;%E2%96%B8+Cloud+Security+Automation+%E2%80%94+93.75%25+Accuracy)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=14&duration=2500&pause=800&color=FF0040&center=true&vCenter=true&repeat=true&width=500&height=22&lines=%E2%96%B8+CVE-2026-42178+%E2%80%94+Disclosed+%26+Assigned;%E2%96%B8+CVE-2026-42179+%E2%80%94+Disclosed+%26+Assigned;%E2%96%B8+CVE-2026-35454+%E2%80%94+Disclosed+%26+Assigned;%E2%96%B8+CVE-2026-42574+%E2%80%94+Disclosed+%26+Assigned;%E2%96%B8+CVE-2026-55671+%E2%80%94+Disclosed+%26+Assigned;%E2%96%B8+National+CTF+Ranking+%E2%80%94+Top+5+%282026%29;%E2%96%B8+Cloud+Security+Automation+%E2%80%94+93.75%25+Accuracy)](https://git.io/typing-svg)
 
 <br/>
 
