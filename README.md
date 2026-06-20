@@ -3,7 +3,7 @@
 # **KANDLAGUDURU VAMSI**
 ### `Offensive Security Researcher · Penetration Tester`
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=14&duration=2500&pause=800&color=FF0040&center=true&vCenter=true&repeat=true&width=500&height=22&lines=%E2%96%B8+CVE-2026-42178+%E2%80%94+Disclosed+%26+Assigned;%E2%96%B8+CVE-2026-42179+%E2%80%94+Disclosed+%26+Assigned;%E2%96%B8+CVE-2026-35454+%E2%80%94+Disclosed+%26+Assigned;%E2%96%B8+CVE-2026-42574+%E2%80%94+Disclosed+%26+Assigned;%E2%96%B8+CVE-2026-55671+%E2%80%94+Disclosed+%26+Assigned)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=2500&pause=800&color=FF0040&center=true&vCenter=true&repeat=true&width=600&height=22&lines=%E2%96%B8+CVE-2026-42178+%E2%80%94+Disclosed+%26+Assigned;%E2%96%B8+CVE-2026-42179+%E2%80%94+Disclosed+%26+Assigned;%E2%96%B8+CVE-2026-35454+%E2%80%94+Disclosed+%26+Assigned;%E2%96%B8+CVE-2026-42574+%E2%80%94+Disclosed+%26+Assigned;%E2%96%B8+CVE-2026-55671+%E2%80%94+Disclosed+%26+Assigned)](https://git.io/typing-svg)
 
 <br/>
 
@@ -29,10 +29,6 @@ Education: B.E. Computer Science (Cybersecurity)
 Focus:     Web Application Security
            Cloud Security · Red Team Operations
 ```
-
-Disclosed **CVE-2026-35454**. Recognized on **Bugcrowd Hall of Fame**.  
-Built cloud security automation at **Gauntlet** — **93.75% detection accuracy**.  
-Currently consulting AI companies on web application security.
 
 </td>
 <td width="45%" valign="top">
