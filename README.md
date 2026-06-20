@@ -3,13 +3,12 @@
 # **KANDLAGUDURU VAMSI**
 ### `Offensive Security Researcher · Penetration Tester`
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=14&duration=2500&pause=800&color=FF0040&center=true&vCenter=true&repeat=true&width=500&height=22&lines=%E2%96%B8+CVE-2026-42178+%E2%80%94+Critical+RCE+%E2%80%94+OpenAEV;%E2%96%B8+CVE-2026-42179+%E2%80%94+High+IDOR+%E2%80%94+OpenAEV;%E2%96%B8+CVE-2026-35454+%E2%80%94+High+Path+Traversal+%E2%80%94+Coder;%E2%96%B8+CVE-2026-42574+%E2%80%94+High+Symlink+%E2%80%94+apko;%E2%96%B8+CVE-2026-55671+%E2%80%94+SSRF+%E2%80%94+Zitadel;%E2%96%B8+Google+VRP+%E2%80%94+Credited+%E2%80%94+Pickle+RCE;%E2%96%B8+National+CTF+Ranking+%E2%80%94+Top+5+%282026%29;%E2%96%B8+Cloud+Security+Automation+%E2%80%94+93.75%25+Accuracy)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=14&duration=2500&pause=800&color=FF0040&center=true&vCenter=true&repeat=true&width=500&height=22&lines=%E2%96%B8+CVE-2026-42178+%E2%80%94+Critical+RCE+%E2%80%94+OpenAEV;%E2%96%B8+CVE-2026-42179+%E2%80%94+High+IDOR+%E2%80%94+OpenAEV;%E2%96%B8+CVE-2026-35454+%E2%80%94+Disclosed+%26+Assigned;%E2%96%B8+CVE-2026-42574+%E2%80%94+High+Symlink+%E2%80%94+apko;%E2%96%B8+CVE-2026-55671+%E2%80%94+SSRF+%E2%80%94+Zitadel;%E2%96%B8+Google+VRP+%E2%80%94+Credited;%E2%96%B8+National+CTF+Ranking+%E2%80%94+Top+5+%282026%29;%E2%96%B8+Cloud+Security+Automation+%E2%80%94+93.75%25+Accuracy)](https://git.io/typing-svg)
 
 <br/>
 
-<a href="#"><img src="https://img.shields.io/badge/CVE--2026--42178-CRITICAL_RCE-ff0040?style=for-the-badge&logoColor=white"/></a>&nbsp;
-<a href="#"><img src="https://img.shields.io/badge/CVE--2026--35454-HIGH-ff0040?style=for-the-badge"/></a>&nbsp;
-<a href="#"><img src="https://img.shields.io/badge/Google_VRP-CREDITED-ff0040?style=for-the-badge"/></a>&nbsp;
+<a href="https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2026-35454"><img src="https://img.shields.io/badge/CVE--2026--35454-DISCLOSED-ff0040?style=for-the-badge&logoColor=white"/></a>&nbsp;
+<a href="https://bugcrowd.com/"><img src="https://img.shields.io/badge/BUGCROWD-HALL_OF_FAME-ff0040?style=for-the-badge"/></a>&nbsp;
 <a href="#"><img src="https://img.shields.io/badge/CTF-TOP_5_NATIONAL-ff0040?style=for-the-badge"/></a>
 
 </div>
@@ -31,9 +30,9 @@ Focus:     Web Application Security
            Cloud Security · Red Team Operations
 ```
 
-**6 CVEs** independently discovered and disclosed — including a **Critical RCE** in OpenAEV and three **High** severity findings. Credited through **Google's Vulnerability Reward Program**.  
+Disclosed **CVE-2026-35454**. Recognized on **Bugcrowd Hall of Fame**.  
 Built cloud security automation at **Gauntlet** — **93.75% detection accuracy**.  
-National CTF — **Top 5 (2026)**.
+Currently consulting AI companies on web application security.
 
 </td>
 <td width="45%" valign="top">
@@ -71,7 +70,7 @@ National CTF — **Top 5 (2026)**.
 <img src="https://img.shields.io/badge/eJPT_v2-INE_Security-ff0040?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/CEH-EC--Council-ff0040?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/ASCP-API_Security-ff0040?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/ISO_27001-Lead_Auditor-ff0040?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/ISO_27001-Lead_Implementer-ff0040?style=for-the-badge"/>
 
 </div>
 
