@@ -3,11 +3,11 @@
 # **KANDLAGUDURU VAMSI**
 ### `Offensive Security Researcher · Penetration Tester`
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=14&duration=2500&pause=800&color=FF0040&center=true&vCenter=true&repeat=true&width=500&height=22&lines=%E2%96%B8+CVE-2026-42178+%E2%80%94+Disclosed+%26+Assigned;%E2%96%B8+CVE-2026-42179+%E2%80%94+Disclosed+%26+Assigned;%E2%96%B8+CVE-2026-35454+%E2%80%94+Disclosed+%26+Assigned;%E2%96%B8+CVE-2026-42574+%E2%80%94+Disclosed+%26+Assigned;%E2%96%B8+CVE-2026-55671+%E2%80%94+Disclosed+%26+Assigned;%E2%96%B8+National+CTF+Ranking+%E2%80%94+Top+5+%282026%29;%E2%96%B8+Cloud+Security+Automation+%E2%80%94+93.75%25+Accuracy)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=14&duration=2500&pause=800&color=FF0040&center=true&vCenter=true&repeat=true&width=500&height=22&lines=%E2%96%B8+CVE-2026-42178+%E2%80%94+Disclosed+%26+Assigned;%E2%96%B8+CVE-2026-42179+%E2%80%94+Disclosed+%26+Assigned;%E2%96%B8+CVE-2026-35454+%E2%80%94+Disclosed+%26+Assigned;%E2%96%B8+CVE-2026-42574+%E2%80%94+Disclosed+%26+Assigned;%E2%96%B8+CVE-2026-55671+%E2%80%94+Disclosed+%26+Assigned)](https://git.io/typing-svg)
 
 <br/>
 
-<a href="https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2026-35454"><img src="https://img.shields.io/badge/CVE--2026--35454-DISCLOSED-ff0040?style=for-the-badge&logoColor=white"/></a>&nbsp;
+<a href="#"><img src="https://img.shields.io/badge/CRTA-RED_TEAM_ANALYST-ff0040?style=for-the-badge"/></a>&nbsp;
 <a href="https://bugcrowd.com/"><img src="https://img.shields.io/badge/BUGCROWD-HALL_OF_FAME-ff0040?style=for-the-badge"/></a>&nbsp;
 <a href="#"><img src="https://img.shields.io/badge/CTF-TOP_5_NATIONAL-ff0040?style=for-the-badge"/></a>
 
@@ -43,6 +43,7 @@ Currently consulting AI companies on web application security.
 ![](https://img.shields.io/badge/Metasploit-ff0040?style=flat-square)
 ![](https://img.shields.io/badge/BloodHound-ff0040?style=flat-square)
 ![](https://img.shields.io/badge/Cobalt_Strike-ff0040?style=flat-square)
+![](https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kali-linux&logoColor=white)
 ![](https://img.shields.io/badge/Nmap-222?style=flat-square)
 ![](https://img.shields.io/badge/SQLMap-222?style=flat-square)
 ![](https://img.shields.io/badge/Nuclei-222?style=flat-square)
@@ -54,6 +55,10 @@ Currently consulting AI companies on web application security.
 ![](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
 ![](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
+![](https://img.shields.io/badge/Azure-0089D6?style=flat-square&logo=microsoftazure&logoColor=white)
+![](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
+![](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![](https://img.shields.io/badge/GitLab_CI-FCA121?style=flat-square&logo=gitlab&logoColor=white)
 ![](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
 
 </td>
